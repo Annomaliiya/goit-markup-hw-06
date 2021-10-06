@@ -458,17 +458,15 @@ a:focus {
 }
 .container-footer {
   display: flex;
-}
-.subscribe-by-mail {
-  margin-left: 93px;
+  justify-content: space-between;
 }
 .contact-subscribtion-wrapper {
   display: flex;
   width: calc((100% - 30px) / 2);
+  justify-content: space-between;
 }
 .subscription-links {
   width: calc((100% - 30px) / 2);
-  margin-left: 70px;
 }
 .subscription-text {
   margin-top: 12px;
