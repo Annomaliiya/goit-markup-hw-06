@@ -756,9 +756,10 @@ a:focus {
   position: absolute;
 }
 .icon-checkbox {
+  display: flex;
+  justify-content: center;
   position: relative;
   margin-right: 7px;
-  display: inline-block;
   width: 16px;
   height: 15px;
   background-color: var(--white-color);
@@ -766,10 +767,8 @@ a:focus {
   border-radius: 2px;
 }
 .icon-check {
+  align-self: center;
   opacity: 0;
-  top: 1px;
-  position: absolute;
-  left: 1px;
 }
 .modal-form-check:checked + .modal-form-check-label .icon-checkbox {
   background-color: var(--accent-color);
