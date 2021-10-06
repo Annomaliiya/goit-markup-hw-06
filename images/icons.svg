@@ -74,7 +74,7 @@
     <symbol id="icon-user-name" viewBox="0 0 32 32">
       <path d="M16 16a8 8 0 1 0 0-16 8 8 0 0 0 0 16zm0 4c-5.34 0-16 2.68-16 8v2c0 1.1.9 2 2 2h28a2 2 0 0 0 2-2v-2c0-5.32-10.66-8-16-8z"/>
     </symbol>
-    <symbol id="icon-icon-send" viewBox="0 0 32 32">
+    <symbol id="icon-send-mail" viewBox="0 0 32 32">
       <path fill="#fff" style="fill:var(--color1, #fff)" d="M32 0 0 18l10.23 3.79L26 7 14 23.19h.01H14V32l5.74-6.7L27 28l5-28z"/>
     </symbol>
     <symbol id="icon-check-mark" viewBox="0 0 42 32">
